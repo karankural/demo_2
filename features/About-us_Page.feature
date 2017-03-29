@@ -1,4 +1,3 @@
-asdwd:sdFeature: Automation for PAbout Us Page to reduce manual effort of manual testing, here we will going to automate validation of CSS, nested CSS, response status of hrefs and sources of images.
   @blackbox @1
   Scenario: Redirection from homepage to About-us page.
     Given I am on "/"

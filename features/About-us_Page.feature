@@ -1,5 +1,4 @@
-Feature: Automation for PAbout Us Page to reduce manual effort of manual testing, here we will going to automate validation of CSS, nested CSS, response status of hrefs and sources of images.
-  @blackbox @1
+  @blackboqwqewx @1
   Scenario: Redirection from homepage to About-us page.
     Given I am on "/"
     Then I follow "About" in the "secondary_orange_menu_bar" region
